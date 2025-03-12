@@ -15,9 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nimash-kithmal-6721a7279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samith madhushan" height="30" width="40" /></a>
-<a href="https://www.facebook.com/nimash.kithmal.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samith madhushan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nimash.kithmal.13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samith madhushan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nimash-kithmal-6721a7279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nimash kithmal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/nimash.kithmal.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nimash kithmal" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nimash.kithmal.13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sNimash kithmal" height="30" width="40" /></a>
+<a href="Add me as a contact on WhatsApp. https://wa.me/qr/K3WMA3CQEF7HA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Nimash kithmal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
