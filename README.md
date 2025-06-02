@@ -1,4 +1,4 @@
-<img src="https://github.com/nimashkithmal/yourrepo/blob/main/background.jpg?raw=true" width="100%" />
+<img src="https://github.com/nimashkithmal/nimashkithmal/blob/main/background.jpg?raw=true" width="100%" />
 
 
 <h1 align="center">Hi 👋, I'm Nimash Kithmal</h1>
