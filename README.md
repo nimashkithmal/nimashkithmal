@@ -11,7 +11,7 @@
 ---
 
 
-<img src="https://www.1training.org/wp-content/uploads/2015/01/Information-Technology-and-Cloud-Computing-1024x870-e1422276882760-1.jpg" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 
 -💬 Ask me about: ✨Java  ✨React  ✨Web Development
@@ -23,6 +23,8 @@
 -💻 Passionate about: Building interactive UIs and improving user experience
 
 -🚀 Goals: Master full-stack development and contribute to open source
+<br>
+<br>
 <br>
 <br>
 <br>
