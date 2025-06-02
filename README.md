@@ -10,11 +10,10 @@
 
 ---
 
--🔭 Currently working on: A frontend test project
 
--🌱 Learning: Java
+<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
--💬 Ask me about: Java, React, and Web Development
+-💬 Ask me about: ✨Java  ✨React  ✨Web Development
 
 -📫 Contact me: NimashKithmal13@gmail.com
 
