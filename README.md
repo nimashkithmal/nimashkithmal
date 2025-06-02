@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/nimashkithmal/yourrepo/main/background.jpg" width="100%" />
+<img src="https://github.com/nimashkithmal/yourrepo/blob/main/background.jpg?raw=true" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Nimash Kithmal</h1>
 <h3 align="center">A Passionate Frontend Developer from Sri Lanka 🇱🇰</h3>
