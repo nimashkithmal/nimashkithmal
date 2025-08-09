@@ -189,7 +189,7 @@
 
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demlab.xyz/?user=nimashkithmal&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashkithmal&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">📈 Top Languages</h3>
