@@ -211,12 +211,6 @@
 
 
 
-<div align="center">
-  <h3>☕ Support Me</h3>
-  <a href="https://www.buymeacoffee.com/nimashkithmal" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</div>
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
