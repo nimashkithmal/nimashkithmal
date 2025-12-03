@@ -182,11 +182,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimashkithmal&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 <h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nimashkithmal&theme=tokyonight" alt="GitHub Streak" />
@@ -194,7 +189,7 @@
 
 <h3 align="center">📈 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimashkithmal&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nimashkithmal&theme=github_dark" alt="Top Languages" />
 </p>
 
 <h3 align="center">📅 GitHub Activity Graph</h3>
